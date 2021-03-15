@@ -5,7 +5,7 @@
     <acl>
         <resources>
             <resource id="Magento_Backend::admin">
-                <resource id="Magento_Backend::stores">
+                <resource id="OH_Core::core">
                     <resource id="OH_Cookie::settings" title="OH - Cookie"
                               translate="title" sortOrder="1100"/>
                 </resource>
